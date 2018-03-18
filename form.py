@@ -1,3 +1,4 @@
+#METE EKER
 import os
 bg=[]
 Ad="Ad : "
